@@ -1,0 +1,3 @@
+[theme]
+base="light" # Set the base theme to light
+secondaryBackgroundColor="#262730" # A dark shade for the sidebar background

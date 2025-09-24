@@ -1,0 +1,161 @@
+airline,date_of_journey,source,destination,dep_time,arrival_time,duration,total_stops,additional_info,price
+Jet Airways,2019-06-01,Delhi,Cochin,14:35:00,12:35:00,1320,2.0,No Info,13376
+Jet Airways,2019-05-01,Kolkata,Banglore,17:00:00,14:25:00,1285,1.0,No Info,11467
+Indigo,2019-03-03,Delhi,Cochin,07:30:00,21:00:00,810,1.0,No Info,14871
+Indigo,2019-06-27,Banglore,Delhi,07:10:00,10:05:00,175,0.0,No Info,4823
+Indigo,2019-03-18,Chennai,Kolkata,19:35:00,21:55:00,140,0.0,No Info,4332
+Multiple Carriers,2019-03-03,Delhi,Cochin,08:55:00,18:50:00,595,1.0,No Info,15411
+Air India,2019-04-01,Delhi,Cochin,17:20:00,09:25:00,965,1.0,No Info,5117
+Jet Airways,2019-05-21,Kolkata,Banglore,18:55:00,04:40:00,585,1.0,In-flight meal not included,9663
+Jet Airways,2019-05-18,Kolkata,Banglore,18:55:00,16:20:00,1285,1.0,In-flight meal not included,10844
+Air India,2019-06-27,Delhi,Cochin,05:15:00,19:15:00,2280,3.0,No Info,10703
+Air India,2019-05-06,Kolkata,Banglore,09:50:00,08:55:00,1385,2.0,No Info,13227
+Jet Airways,2019-06-01,Delhi,Cochin,22:50:00,04:25:00,335,1.0,In-flight meal not included,10262
+Air India,2019-05-18,Delhi,Cochin,17:40:00,08:15:00,875,1.0,No Info,8361
+Air India,2019-05-12,Kolkata,Banglore,09:25:00,13:45:00,1700,2.0,No Info,12592
+Air India,2019-05-09,Delhi,Cochin,16:55:00,19:15:00,1580,2.0,No Info,13591
+Goair,2019-06-27,Delhi,Cochin,14:25:00,19:35:00,310,1.0,No Info,7870
+Jet Airways,2019-06-15,Delhi,Cochin,21:50:00,12:35:00,885,1.0,In-flight meal not included,10262
+Multiple Carriers,2019-03-27,Delhi,Cochin,07:30:00,19:15:00,705,1.0,No Info,9100
+Air India,2019-05-09,Delhi,Cochin,09:45:00,23:00:00,795,1.0,No Info,7174
+Jet Airways,2019-06-15,Delhi,Cochin,11:40:00,19:00:00,440,2.0,In-flight meal not included,15812
+Indigo,2019-06-12,Delhi,Cochin,02:00:00,07:25:00,325,1.0,No Info,5636
+Air Asia,2019-06-24,Delhi,Cochin,20:45:00,06:35:00,590,1.0,No Info,6152
+Indigo,2019-03-24,Kolkata,Banglore,14:30:00,20:10:00,340,1.0,No Info,9413
+Goair,2019-04-09,Delhi,Cochin,07:25:00,13:20:00,355,1.0,No Info,4106
+Jet Airways,2019-05-18,Mumbai,Hyderabad,10:20:00,11:50:00,90,0.0,In-flight meal not included,4050
+Indigo,2019-03-27,Delhi,Cochin,16:10:00,22:20:00,370,1.0,No Info,6412
+Multiple Carriers,2019-06-24,Delhi,Cochin,10:20:00,21:00:00,640,1.0,In-flight meal not included,6007
+Indigo,2019-03-27,Delhi,Cochin,08:35:00,21:20:00,765,2.0,No Info,6494
+Air India,2019-03-09,Banglore,New Delhi,11:50:00,23:55:00,725,1.0,No Info,10972
+Indigo,2019-06-03,Chennai,Kolkata,14:45:00,17:05:00,140,0.0,No Info,3597
+Goair,2019-03-01,Banglore,New Delhi,11:40:00,14:35:00,175,0.0,No Info,11111
+Jet Airways,2019-06-06,Kolkata,Banglore,18:55:00,19:50:00,1495,1.0,No Info,14571
+Jet Airways,2019-05-21,Kolkata,Banglore,20:00:00,22:35:00,1595,1.0,In-flight meal not included,10844
+Indigo,2019-06-06,Kolkata,Banglore,17:15:00,19:50:00,155,0.0,No Info,4804
+Jet Airways,2019-04-01,Delhi,Cochin,17:30:00,12:35:00,1145,1.0,In-flight meal not included,5406
+Jet Airways,2019-06-12,Delhi,Cochin,20:00:00,04:25:00,505,2.0,In-flight meal not included,12410
+Jet Airways,2019-03-27,Delhi,Cochin,17:35:00,19:45:00,1570,2.0,In-flight meal not included,8098
+Jet Airways,2019-04-03,Delhi,Cochin,02:15:00,12:35:00,620,1.0,In-flight meal not included,5177
+Multiple Carriers,2019-06-12,Delhi,Cochin,09:15:00,19:00:00,585,1.0,No Info,11622
+Indigo,2019-05-15,Chennai,Kolkata,14:45:00,17:05:00,140,0.0,No Info,3597
+Air India,2019-03-21,Banglore,New Delhi,11:50:00,13:00:00,1510,1.0,No Info,5092
+Jet Airways,2019-05-01,Kolkata,Banglore,21:10:00,10:05:00,775,1.0,In-flight meal not included,10844
+Jet Airways,2019-03-12,Banglore,New Delhi,18:55:00,09:30:00,875,1.0,No Info,13817
+Jet Airways,2019-03-21,Delhi,Cochin,05:30:00,18:50:00,2240,2.0,In-flight meal not included,9328
+Jet Airways,2019-05-15,Kolkata,Banglore,16:30:00,04:40:00,730,1.0,No Info,14781
+Air Asia,2019-05-09,Kolkata,Banglore,22:40:00,10:40:00,720,1.0,No Info,5192
+Jet Airways,2019-03-12,Banglore,New Delhi,20:35:00,19:10:00,1355,1.0,In-flight meal not included,11087
+Spicejet,2019-04-03,Banglore,Delhi,09:30:00,12:20:00,170,0.0,No Info,3971
+Air India,2019-06-01,Banglore,Delhi,21:05:00,23:55:00,170,0.0,No Info,5228
+Jet Airways,2019-03-06,Banglore,New Delhi,08:00:00,18:25:00,625,1.0,No Info,16736
+Jet Airways,2019-03-24,Kolkata,Banglore,06:30:00,18:10:00,700,1.0,In-flight meal not included,10031
+Vistara,2019-05-01,Kolkata,Banglore,07:10:00,10:45:00,1655,1.0,No Info,9187
+Indigo,2019-06-15,Banglore,Delhi,10:30:00,13:20:00,170,0.0,No Info,3943
+Jet Airways,2019-05-27,Delhi,Cochin,02:15:00,12:35:00,620,1.0,No Info,16376
+Jet Airways,2019-05-09,Kolkata,Banglore,10:20:00,17:35:00,435,1.0,No Info,8355
+Jet Airways,2019-05-09,Delhi,Cochin,18:15:00,04:25:00,610,1.0,In-flight meal not included,12373
+Jet Airways,2019-05-21,Kolkata,Banglore,20:25:00,19:10:00,1365,1.0,No Info,13067
+Jet Airways,2019-06-12,Delhi,Cochin,05:30:00,19:00:00,810,2.0,In-flight meal not included,11507
+Air India,2019-05-15,Kolkata,Banglore,05:50:00,12:30:00,1840,2.0,No Info,12723
+Air India,2019-05-27,Delhi,Cochin,21:00:00,19:15:00,1335,1.0,No Info,8372
+Jet Airways,2019-03-24,Mumbai,Hyderabad,02:55:00,04:25:00,90,0.0,In-flight meal not included,2071
+Jet Airways,2019-06-24,Delhi,Cochin,20:00:00,04:25:00,505,2.0,No Info,14300
+Vistara,2019-05-18,Kolkata,Banglore,07:10:00,22:40:00,930,1.0,No Info,9187
+Indigo,2019-06-12,Banglore,Delhi,06:05:00,08:50:00,165,0.0,No Info,3943
+Jet Airways,2019-05-09,Kolkata,Banglore,20:00:00,08:15:00,735,1.0,In-flight meal not included,7757
+Spicejet,2019-05-12,Kolkata,Banglore,11:35:00,18:50:00,435,1.0,No Info,8479
+Spicejet,2019-06-06,Chennai,Kolkata,08:20:00,10:35:00,135,0.0,No check-in baggage included,3543
+Spicejet,2019-03-09,Kolkata,Banglore,06:55:00,09:35:00,160,0.0,No Info,4622
+Air India,2019-04-03,Delhi,Cochin,14:10:00,17:10:00,180,0.0,No Info,4729
+Jet Airways,2019-03-01,Banglore,New Delhi,11:40:00,18:25:00,405,1.0,No Info,26890
+Air Asia,2019-03-03,Kolkata,Banglore,19:35:00,22:05:00,150,0.0,No Info,5964
+Jet Airways,2019-06-09,Kolkata,Banglore,08:25:00,19:50:00,685,1.0,No Info,14571
+Indigo,2019-06-12,Mumbai,Hyderabad,21:20:00,22:50:00,90,0.0,No Info,2227
+Jet Airways,2019-03-21,Delhi,Cochin,18:25:00,18:50:00,1465,2.0,No Info,11869
+Spicejet,2019-03-27,Delhi,Cochin,15:55:00,21:55:00,360,1.0,No Info,5111
+Air India,2019-05-15,Delhi,Cochin,05:10:00,08:00:00,170,0.0,No Info,6094
+Multiple Carriers,2019-03-09,Delhi,Cochin,13:15:00,22:20:00,545,1.0,No Info,9856
+Jet Airways,2019-05-03,Banglore,Delhi,08:20:00,11:20:00,180,0.0,In-flight meal not included,5198
+Air Asia,2019-05-24,Kolkata,Banglore,22:50:00,01:20:00,150,0.0,No Info,4107
+Jet Airways,2019-03-24,Mumbai,Hyderabad,02:55:00,04:25:00,90,0.0,No Info,5678
+Jet Airways,2019-04-24,Banglore,Delhi,18:55:00,22:00:00,185,0.0,In-flight meal not included,4544
+Multiple Carriers,2019-06-03,Delhi,Cochin,12:50:00,21:00:00,490,1.0,No Info,7740
+Multiple Carriers,2019-05-15,Delhi,Cochin,07:05:00,16:10:00,545,1.0,No Info,9646
+Air India,2019-03-03,Mumbai,Hyderabad,19:30:00,20:45:00,75,0.0,No Info,11185
+Indigo,2019-04-15,Delhi,Cochin,07:35:00,16:10:00,515,1.0,No Info,6442
+Air India,2019-05-24,Kolkata,Banglore,09:25:00,13:45:00,1700,2.0,No Info,12802
+Indigo,2019-06-09,Delhi,Cochin,14:20:00,22:30:00,490,1.0,No Info,6938
+Indigo,2019-03-06,Delhi,Cochin,02:00:00,07:45:00,345,1.0,No Info,8025
+Indigo,2019-03-18,Delhi,Cochin,14:30:00,17:35:00,185,0.0,No Info,5406
+Spicejet,2019-06-27,Kolkata,Banglore,06:55:00,09:30:00,155,0.0,No check-in baggage included,3841
+Jet Airways,2019-06-24,Delhi,Cochin,23:05:00,19:00:00,1195,2.0,No Info,12819
+Indigo,2019-05-15,Banglore,Delhi,08:30:00,11:20:00,170,0.0,No Info,4823
+Jet Airways,2019-03-09,Delhi,Cochin,21:50:00,18:50:00,1260,1.0,No Info,15764
+Air India,2019-03-21,Banglore,New Delhi,08:15:00,11:20:00,1625,2.0,No Info,7642
+Indigo,2019-03-18,Chennai,Kolkata,11:35:00,14:00:00,145,0.0,No Info,3858
+Air Asia,2019-03-27,Delhi,Cochin,16:45:00,22:15:00,330,1.0,No Info,6151
+Jet Airways,2019-05-15,Kolkata,Banglore,18:55:00,16:20:00,1285,1.0,In-flight meal not included,10844
+Jet Airways,2019-05-12,Kolkata,Banglore,17:00:00,21:05:00,1685,1.0,In-flight meal not included,10703
+Multiple Carriers,2019-04-09,Delhi,Cochin,08:30:00,19:00:00,630,1.0,No Info,10877
+Vistara,2019-06-27,Banglore,Delhi,17:00:00,19:35:00,155,0.0,No Info,4878
+Air India,2019-03-09,Delhi,Cochin,07:05:00,19:15:00,2170,2.0,No Info,11762
+Spicejet,2019-06-18,Chennai,Kolkata,17:45:00,20:05:00,140,0.0,No Info,3597
+Air India,2019-05-12,Chennai,Kolkata,11:40:00,13:55:00,135,0.0,No Info,4667
+Air India,2019-03-06,Delhi,Cochin,17:40:00,08:15:00,875,1.0,No Info,11038
+Jet Airways,2019-06-09,Kolkata,Banglore,17:00:00,23:35:00,395,1.0,In-flight meal not included,13994
+Indigo,2019-03-21,Banglore,New Delhi,05:25:00,10:10:00,285,1.0,No Info,6208
+Air India,2019-05-24,Kolkata,Banglore,12:00:00,21:50:00,590,2.0,No Info,9941
+Spicejet,2019-05-24,Chennai,Kolkata,09:45:00,12:00:00,135,0.0,No Info,3597
+Indigo,2019-03-03,Delhi,Cochin,04:45:00,15:30:00,645,1.0,No Info,14871
+Jet Airways,2019-06-21,Mumbai,Hyderabad,19:35:00,21:05:00,90,0.0,In-flight meal not included,3210
+Spicejet,2019-06-27,Mumbai,Hyderabad,05:45:00,07:15:00,90,0.0,No Info,2017
+Jet Airways,2019-06-09,Delhi,Cochin,07:05:00,04:25:00,1280,1.0,In-flight meal not included,10262
+Goair,2019-04-27,Delhi,Cochin,07:25:00,13:35:00,370,1.0,No Info,5140
+Multiple Carriers,2019-05-09,Delhi,Cochin,10:00:00,19:15:00,555,1.0,No Info,14323
+Indigo,2019-06-27,Mumbai,Hyderabad,12:00:00,13:30:00,90,0.0,No Info,2754
+Jet Airways,2019-06-27,Delhi,Cochin,09:25:00,04:25:00,1140,2.0,No Info,13882
+Jet Airways,2019-05-06,Kolkata,Banglore,14:05:00,19:50:00,345,1.0,In-flight meal not included,10844
+Indigo,2019-05-06,Banglore,Delhi,01:30:00,04:15:00,165,0.0,No Info,4284
+Jet Airways,2019-04-27,Banglore,Delhi,17:45:00,20:45:00,180,0.0,In-flight meal not included,4544
+Indigo,2019-05-15,Delhi,Cochin,08:35:00,16:10:00,455,1.0,No Info,6442
+Multiple Carriers,2019-03-09,Delhi,Cochin,07:05:00,16:10:00,545,1.0,No Info,6916
+Air India,2019-04-09,Kolkata,Banglore,14:35:00,14:35:00,1440,1.0,No Info,5006
+Air India,2019-05-12,Kolkata,Banglore,09:50:00,23:15:00,805,3.0,No Info,14015
+Indigo,2019-06-12,Kolkata,Banglore,15:30:00,18:05:00,155,0.0,No Info,4804
+Multiple Carriers,2019-06-15,Delhi,Cochin,09:00:00,21:00:00,720,1.0,No Info,7933
+Vistara,2019-05-18,Kolkata,Banglore,07:10:00,23:25:00,975,1.0,No Info,9345
+Jet Airways,2019-06-09,Delhi,Cochin,21:50:00,04:25:00,395,1.0,In-flight meal not included,10262
+Air Asia,2019-03-06,Kolkata,Banglore,19:35:00,22:05:00,150,0.0,No Info,4384
+Indigo,2019-05-18,Chennai,Kolkata,15:40:00,18:25:00,165,0.0,No Info,3850
+Air India,2019-03-12,Kolkata,Banglore,14:15:00,16:45:00,150,0.0,No Info,5747
+Spicejet,2019-05-15,Banglore,Delhi,09:30:00,12:20:00,170,0.0,No check-in baggage included,4319
+Jet Airways,2019-03-06,Banglore,New Delhi,07:00:00,19:10:00,730,1.0,No Info,16736
+Indigo,2019-04-15,Banglore,Delhi,18:55:00,21:50:00,175,0.0,No Info,4823
+Jet Airways,2019-05-09,Kolkata,Banglore,16:30:00,10:05:00,1055,1.0,In-flight meal not included,8586
+Indigo,2019-03-27,Delhi,Cochin,11:30:00,01:35:00,845,1.0,No Info,6206
+Jet Airways,2019-05-18,Delhi,Cochin,14:00:00,04:25:00,865,1.0,In-flight meal not included,12373
+Multiple Carriers,2019-03-27,Delhi,Cochin,11:30:00,18:50:00,440,1.0,No Info,11200
+Jet Airways,2019-03-21,Banglore,New Delhi,09:45:00,15:55:00,370,1.0,In-flight meal not included,7280
+Indigo,2019-05-18,Banglore,Delhi,20:00:00,22:50:00,170,0.0,No Info,4823
+Air India,2019-06-15,Banglore,Delhi,17:00:00,19:45:00,165,0.0,No Info,7171
+Jet Airways,2019-05-18,Kolkata,Banglore,14:05:00,23:35:00,570,1.0,In-flight meal not included,10844
+Air India,2019-06-27,Mumbai,Hyderabad,21:05:00,22:25:00,80,0.0,No Info,3100
+Spicejet,2019-06-06,Kolkata,Banglore,15:05:00,20:20:00,315,1.0,No Info,4649
+Multiple Carriers,2019-05-21,Delhi,Cochin,10:00:00,01:30:00,930,1.0,No Info,14067
+Multiple Carriers,2019-05-27,Delhi,Cochin,08:45:00,19:15:00,630,1.0,No Info,10051
+Jet Airways,2019-05-15,Kolkata,Banglore,18:55:00,19:50:00,1495,1.0,In-flight meal not included,10844
+Indigo,2019-03-21,Delhi,Cochin,08:25:00,15:30:00,425,1.0,No Info,9709
+Jet Airways,2019-05-24,Kolkata,Banglore,17:00:00,19:10:00,1570,1.0,No Info,13067
+Spicejet,2019-05-18,Kolkata,Banglore,15:55:00,21:25:00,330,1.0,No Info,8224
+Jet Airways,2019-04-01,Mumbai,Hyderabad,19:35:00,21:05:00,90,0.0,No Info,5678
+Jet Airways,2019-06-06,Banglore,Delhi,11:10:00,14:05:00,175,0.0,No Info,8016
+Jet Airways,2019-05-09,Delhi,Cochin,13:00:00,19:00:00,360,1.0,In-flight meal not included,12373
+Jet Airways,2019-03-27,Delhi,Cochin,09:55:00,18:50:00,535,1.0,No Info,12032
+Jet Airways,2019-03-01,Banglore,New Delhi,22:50:00,10:25:00,695,1.0,1 Long layover,31825
+Indigo,2019-05-09,Delhi,Cochin,17:05:00,22:25:00,320,1.0,No Info,6027
+Indigo,2019-06-01,Delhi,Cochin,07:35:00,12:10:00,275,1.0,No Info,5054
+Multiple Carriers,2019-05-21,Delhi,Cochin,10:35:00,19:00:00,505,1.0,No Info,9103
+Goair,2019-04-12,Banglore,Delhi,07:45:00,10:40:00,175,0.0,No Info,6722
+Indigo,2019-03-09,Delhi,Cochin,07:45:00,13:40:00,355,1.0,No Info,6755
+Indigo,2019-04-12,Kolkata,Banglore,22:15:00,00:50:00,155,0.0,No Info,4174
